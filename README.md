@@ -10,6 +10,6 @@ This app leverages SAM from Hugging Face for precise object masking and diffusio
 
 Sample image showing segmenting an object (elephant in this case) and replacing the background using a text prompt
 
-![Sample result](./images/Infill subject instead of background.PNG)
+![Sample result](./images/infill.PNG)
 
 Sample image showing segmenting an object (elephant in this case) and infilling/replacing the object area using a text prompt
