@@ -6,7 +6,6 @@ The core of the app's functionality is powered by the **Segment Anything Model (
 
 This app leverages SAM from Hugging Face for precise object masking and diffusion models from Hugging Face for generating new backgrounds or subjects, enabling dynamic image transformations such as background swapping, subject replacement, and object removal.
 
-
 ![Sample result](./images/inpainting_example1_prompt3.PNG)
 
 Sample image showing segmenting an object (elephant in this case) and replacing the background using a text prompt
